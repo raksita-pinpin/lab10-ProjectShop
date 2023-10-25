@@ -3,7 +3,10 @@ package ku.shop;
 import java.util.HashMap;
 import java.util.Map;
 
+//รักษิตา รัตนาลังการ 6310450654
+
 public class ProductCatalog {
+
 
     private Map<String, Product> products;
 

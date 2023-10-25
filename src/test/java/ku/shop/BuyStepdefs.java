@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Assertions;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+//รักษิตา รัตนาลังการ 6310450654
 public class BuyStepdefs {
 
     private ProductCatalog catalog;
